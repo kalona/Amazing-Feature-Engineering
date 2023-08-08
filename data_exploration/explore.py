@@ -31,7 +31,7 @@ def get_dtypes(data,drop_col=[]):
     str_var_list = name_of_col.copy()
     for var in name_of_col:
         # check if column belongs to numeric type
-        if (data[var].dtypes in (np.int, np.int64, np.uint, np.int32, np.float,
+        if (data[var].dtypes in (int, np.int64, np.uint, np.int32, float,
                                np.float64, np.float32, np.double)):
             str_var_list.remove(var)
             num_var_list.append(var)
