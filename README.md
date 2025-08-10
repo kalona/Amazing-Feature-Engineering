@@ -173,17 +173,9 @@ Below is a list of methods currently implemented in the repo.
 
 https://www.trainindata.com/p/feature-engineering-for-machine-learning
 
-or
-
-https://www.udemy.com/feature-engineering-for-machine-learning/
-
 - Feature Selection for Machine Learning online course
 
 https://www.trainindata.com/p/feature-selection-for-machine-learning
-
-or
-
-https://www.udemy.com/feature-selection-for-machine-learning
 
 - JMLR Special Issue on Variable and Feature Selection
 
